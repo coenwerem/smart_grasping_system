@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import rospy
 from std_msgs.msg import Header
 from trajectory_msgs.msg import JointTrajectoryPoint
