@@ -9,3 +9,7 @@ The `open_hand.py` script in the `open_hand_pkg` sends preset joint positions to
 |![Open Hand Routine Gazebo View](./resources/open_hand_demo.gif)|![Close Hand Routine Gazebo View](./resources/close_hand_demo.gif)|
 | :----:        |    :----:   |
 | Open Hand      | Close Hand |
+
+#### `!TODO` Step 1: Attaching a UR-5 Robot Arm to allow for useful tasking
+
+
