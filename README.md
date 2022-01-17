@@ -1,5 +1,5 @@
-# shadow_smart_grasping
-Dexterous grasping with the 9-DOF Gripper by Shadow Robot Company. 
+# smart_grasping_system
+Dexterous grasping with the (now discontinued) 9-DOF Gripper by Shadow Robot Company. 
 
 ### Commanding Joint Positions 
 #### Step 0: Pre-Grasping Primitives
